@@ -23,3 +23,11 @@ Here are some ideas to get you started:
 [![GitHub followers](https://img.shields.io/github/followers/enovoa?label=Github&style=social)](https://github.com/enovoa)
 
 ![Eva's github stats](https://github-readme-stats.vercel.app/api?username=enovoa&show_icons=true)
+
+
+#### You can find most of our lab's code in the [Novoa lab GitHub] repository.
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/NovoaLab?label=Twitter&style=social)](https://twitter.com/NovoaLab)
+[![GitHub followers](https://img.shields.io/github/followers/novoalab?label=Github&style=social)](https://github.com/novoalab)
+
+![Eva's github stats](https://github-readme-stats.vercel.app/api?username=novoalab&show_icons=true)
