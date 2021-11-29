@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### I'm Eva, Group Leader of the [Epitranscriptomics and RNA Dynamics](https://www.crg.eu/ca/programmes-groups/novoa-lab) lab, at the [Center for Genomic Regulation](https://www.crg.eu) (CRG) in Spain.
+I'm Eva, Group Leader of the [Epitranscriptomics and RNA Dynamics](https://www.crg.eu/ca/programmes-groups/novoa-lab) lab, at the [Center for Genomic Regulation](https://www.crg.eu) (CRG) in Spain.
 
 ---
 
+[![Scholar](https://img.shields.io/badge/List%20of%20Publication-Google%20Scholar-yellow)](https://scholar.google.it/citations?user=x8AmIe8AAAAJ&hl=en&oi=ao) 
 [![Twitter Follow](https://img.shields.io/twitter/follow/EvaMariaNovoa?label=Twitter&style=social)](https://twitter.com/EvaMariaNovoa)
 [![GitHub followers](https://img.shields.io/github/followers/enovoa?label=Github&style=social)](https://github.com/enovoa)
 
