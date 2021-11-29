@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## I'm Eva, Group Leader of the [Epitranscriptomics and RNA Dynamics](https://www.crg.eu/ca/programmes-groups/novoa-lab) lab, at the [Center for Genomic Regulation](https://www.crg.eu) (CRG) in Spain.
 
 ---
 
