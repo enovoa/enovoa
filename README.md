@@ -26,5 +26,4 @@ Here are some ideas to get you started:
 
 
 #### You can find most of our lab's code in the [Novoa lab GitHub](https://github.com/novoalab) team account.
-#### You can also find some of my own code in [my personal GitHub](https://github.com/enovoa) page.
 
