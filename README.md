@@ -23,8 +23,6 @@ I'm Eva, Group Leader of the [Epitranscriptomics and RNA Dynamics](https://www.c
 [![Twitter Follow](https://img.shields.io/twitter/follow/EvaMariaNovoa?label=Twitter&style=social)](https://twitter.com/EvaMariaNovoa)
 [![GitHub followers](https://img.shields.io/github/followers/enovoa?label=Github&style=social)](https://github.com/enovoa)
 
-![Eva's github stats](https://github-readme-stats.vercel.app/api?username=enovoa&show_icons=true)
-
 
 #### You can find most of our lab's code in the [Novoa lab GitHub](https://github.com/novoalab) team account.
 
